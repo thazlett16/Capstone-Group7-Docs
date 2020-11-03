@@ -1,20 +1,16 @@
 var searchData=
 [
-  ['basicplayablebehaviour_6253',['BasicPlayableBehaviour',['../class_unity_engine_1_1_timeline_1_1_basic_playable_behaviour.html#a91a37112301f8a33a028574096da9182',1,'UnityEngine::Timeline::BasicPlayableBehaviour']]],
-  ['beforetest_6254',['BeforeTest',['../interface_unity_engine_1_1_test_tools_1_1_i_outer_unity_test_action.html#a64057549c2f0f92c6d5867fc3b94c0b1',1,'UnityEngine::TestTools::IOuterUnityTestAction']]],
-  ['beginmove_6255',['BeginMove',['../interface_unity_editor_1_1_timeline_1_1_i_move_item_mode.html#ab58fd4e65167a0532c91b167d7dbc489',1,'UnityEditor.Timeline.IMoveItemMode.BeginMove()'],['../class_unity_editor_1_1_timeline_1_1_move_item_mode_mix.html#a08f29bf2ea8ab6e67c77cc938644734c',1,'UnityEditor.Timeline.MoveItemModeMix.BeginMove()'],['../class_unity_editor_1_1_timeline_1_1_move_item_mode_replace.html#a186bdbd53153365ef25e2f2ca9b4c7d8',1,'UnityEditor.Timeline.MoveItemModeReplace.BeginMove()'],['../class_unity_editor_1_1_timeline_1_1_move_item_mode_ripple.html#a0580c3650c3e4cb0ed56061ae42381de',1,'UnityEditor.Timeline.MoveItemModeRipple.BeginMove()']]],
-  ['beginpanel_6256',['BeginPanel',['../class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___base_shader_g_u_i.html#a025663da6334820f0831da1f2b93acb4',1,'TMPro.EditorUtilities.TMP_BaseShaderGUI.BeginPanel(string panel, bool expanded)'],['../class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___base_shader_g_u_i.html#afe82d9e4c02166aa2223f7b4bb64e479',1,'TMPro.EditorUtilities.TMP_BaseShaderGUI.BeginPanel(string panel, ShaderFeature feature, bool expanded, bool readState=true)']]],
-  ['beginpingitem_6257',['BeginPingItem',['../class_unity_editor_1_1_timeline_1_1_timeline_tree_view.html#a5535ee4ace79eb9a19bc0083c00200c1',1,'UnityEditor::Timeline::TimelineTreeView']]],
-  ['beginrename_6258',['BeginRename',['../class_unity_editor_internal_1_1_binding_tree_view_g_u_i.html#a4bd8693a2bf326d599877dce1244f072',1,'UnityEditorInternal.BindingTreeViewGUI.BeginRename()'],['../class_unity_editor_1_1_timeline_1_1_timeline_tree_view.html#a9e1481c1a510c9216717586e86b9025c',1,'UnityEditor.Timeline.TimelineTreeView.BeginRename()']]],
-  ['beginrowgui_6259',['BeginRowGUI',['../class_unity_editor_1_1_timeline_1_1_timeline_tree_view.html#a89e4fc410530a98ab3df9747fd14a5de',1,'UnityEditor::Timeline::TimelineTreeView']]],
-  ['bindingselector_6260',['BindingSelector',['../class_unity_editor_1_1_binding_selector.html#a4f43f35d93aaf806638bd1c7c414ee78',1,'UnityEditor::BindingSelector']]],
-  ['bindingtreeviewdatasource_6261',['BindingTreeViewDataSource',['../class_unity_editor_internal_1_1_binding_tree_view_data_source.html#a1037cb48b4fcfc8895ef57f9ca59429d',1,'UnityEditorInternal::BindingTreeViewDataSource']]],
-  ['bindingtreeviewgui_6262',['BindingTreeViewGUI',['../class_unity_editor_internal_1_1_binding_tree_view_g_u_i.html#a8acb6cd9f3b0df03371ce63a91c9d51e',1,'UnityEditorInternal::BindingTreeViewGUI']]],
-  ['build_6263',['Build',['../class_unity_editor_1_1_timeline_1_1_timeline_clip_union.html#a42bfdea2b388845806ecf0735a47391b',1,'UnityEditor::Timeline::TimelineClipUnion']]],
-  ['buildapiexecutionsettings_6264',['BuildApiExecutionSettings',['../interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_command_line_test_1_1_i_settings_builder.html#a469d7a9bda95ce9b22fd24b652761bb2',1,'UnityEditor::TestTools::TestRunner::CommandLineTest::ISettingsBuilder']]],
-  ['buildcache_6265',['BuildCache',['../struct_unity_engine_1_1_timeline_1_1_marker_list.html#adf074803f6bd7ebda13e6a70cc35abea',1,'UnityEngine::Timeline::MarkerList']]],
-  ['buildexecutionsettings_6266',['BuildExecutionSettings',['../interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_command_line_test_1_1_i_settings_builder.html#a2f4a80359c59a10ac2cd9e4f470f2fef',1,'UnityEditor::TestTools::TestRunner::CommandLineTest::ISettingsBuilder']]],
-  ['buildguicache_6267',['BuildGUICache',['../struct_unity_editor_1_1_timeline_1_1_track_items_drawer.html#a1c4192f56969c5b43cff2442e57888b7',1,'UnityEditor::Timeline::TrackItemsDrawer']]],
-  ['buildmenu_6268',['BuildMenu',['../class_unity_editor_1_1_timeline_1_1_menu_item_action_base.html#abeba653e51c697fda0abcbb64e5d5da3',1,'UnityEditor::Timeline::MenuItemActionBase']]],
-  ['buildroot_6269',['BuildRoot',['../class_unity_editor_1_1_timeline_1_1_signals_1_1_signal_receiver_tree_view.html#a5ca1afeb5d090ea11d777fc01e3c1f56',1,'UnityEditor::Timeline::Signals::SignalReceiverTreeView']]]
+  ['set_5fbrightness_57',['set_brightness',['../classcustomcamera_1_1_custom_camera.html#a9c06c64f6116d938145da4a585dc9610',1,'customcamera::CustomCamera']]],
+  ['set_5fcontrast_58',['set_contrast',['../classcustomcamera_1_1_custom_camera.html#a022fd6030906a6734a20f67fe979c5a9',1,'customcamera::CustomCamera']]],
+  ['set_5fdebug_59',['set_debug',['../classother_functions_1_1_other_functions.html#a0a44ada2e8d4a15d1b99a41ee74921e5',1,'otherFunctions::OtherFunctions']]],
+  ['set_5fframe_5frate_60',['set_frame_rate',['../classcustomcamera_1_1_custom_camera.html#ab711794059a319e2a8c61f25dbe2d9e2',1,'customcamera::CustomCamera']]],
+  ['set_5fhflip_61',['set_hflip',['../classcustomcamera_1_1_custom_camera.html#aa0c49cbc4cb8a6d1601abb27482c2c02',1,'customcamera::CustomCamera']]],
+  ['set_5fip_62',['set_ip',['../classother_functions_1_1_other_functions.html#ae755317a581ecc9730c1558487329122',1,'otherFunctions::OtherFunctions']]],
+  ['set_5fiso_63',['set_iso',['../classcustomcamera_1_1_custom_camera.html#a9049193d487abbd3f6ef4ae26ab7b793',1,'customcamera::CustomCamera']]],
+  ['set_5fpreview_64',['set_preview',['../classcustomcamera_1_1_custom_camera.html#aa3c3ba9d739620b2b91f5a669e003454',1,'customcamera::CustomCamera']]],
+  ['set_5fresolution_65',['set_resolution',['../classcustomcamera_1_1_custom_camera.html#a6817a0b013c1efcba1c0e5912d043a28',1,'customcamera::CustomCamera']]],
+  ['set_5frotation_66',['set_rotation',['../classcustomcamera_1_1_custom_camera.html#a95407e197a0d38006bb5de55f701e121',1,'customcamera::CustomCamera']]],
+  ['set_5fsaturation_67',['set_saturation',['../classcustomcamera_1_1_custom_camera.html#a5b7634cf6fd8a9b3ba932351973ada2a',1,'customcamera::CustomCamera']]],
+  ['set_5fstabilization_68',['set_stabilization',['../classcustomcamera_1_1_custom_camera.html#a3cbcd8c7723980d3c70b75fbb7f3cbec',1,'customcamera::CustomCamera']]],
+  ['set_5fvflip_69',['set_vflip',['../classcustomcamera_1_1_custom_camera.html#ac80c4d509e2a3159b5185b27b9f21651',1,'customcamera::CustomCamera']]]
 ];
